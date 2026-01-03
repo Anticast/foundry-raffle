@@ -1,4 +1,4 @@
-# Raffle project for the Cyfrin Updraft Founry fundamentals course.
+# Raffle project for the Cyfrin Updraft Foundry fundamentals course.
 
 
 
